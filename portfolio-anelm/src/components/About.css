@@ -1,0 +1,15 @@
+.about-section {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .about-section h2 {
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .about-section p {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+  }
+  

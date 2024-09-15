@@ -1,0 +1,60 @@
+/* Estilos generales para la sección Home */
+.home-section {
+  text-align: center;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #555;
+}
+
+p {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}
+
+/* Estilos para los botones */
+.buttons .btn {
+  margin: 1rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Efecto hover para cualquier botón */
+.buttons .btn:hover {
+  background-color: #0056b3;
+  transform: translateY(-3px);
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Animación para el botón de cambio de idioma */
+.language-btn {
+  background-color: #28a745;
+  transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Efecto hover 3D para el botón de idioma */
+.language-btn:hover {
+  background-color: #218838;
+  transform: rotateY(15deg) translateY(-3px);
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Efecto al hacer clic en el botón */
+.language-btn:active {
+  background-color: #1e7e34;
+  transform: scale(0.98) rotateY(0deg); /* Vuelve a su tamaño normal y elimina la rotación al hacer clic */
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}

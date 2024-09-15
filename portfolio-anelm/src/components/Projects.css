@@ -1,0 +1,26 @@
+.projects-section {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .projects-section h2 {
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .projects-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .project-item h3 {
+    font-size: 1.5rem;
+  }
+  
+  .project-item p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
