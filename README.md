@@ -1,6 +1,7 @@
 <!-- Perfil -->
 <div align="center">
    <h1>Hola, soy Anel Martéz</h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=21DDDF&center=true&vCenter=true&width=500&lines=Full Stack Developer Jr" alt="Texto animado" />
   
   <p>
     <a href="https://linkedin.com/in/amarteez" target="_blank">
