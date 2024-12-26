@@ -1,4 +1,4 @@
-<!-- Sección de perfil -->
+<!-- Perfil -->
 <div align="center">
    <h1>Hola, soy Anel Martéz</h1>
   
@@ -12,18 +12,26 @@
   </p>
 </div>
 
-<!-- Sección de texto animado y tecnologías -->
+<!-- Tecnologías -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Bienvenue+sur+mon+GitHub;Benvenuto+nel+mio+GitHub" alt="Texto animado" />
-
-  <h2>🛠️ Tecnologías y Herramientas</h2>
-  <p>
+   
+  <h2>🛠️ Lenguajes y Tecnologías</h2>
+  <p> 
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)" alt="JavaScript" /> 
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue" />
+    <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Postgre-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" alt="DevOps" />
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+   
   </p>
 </div>
 
