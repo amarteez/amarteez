@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './App.css'; // Importa el CSS general
+import './App.css';
 import About from './components/About';
 import Contact from './components/Contact';
 import Header from './components/Header';
@@ -14,7 +14,6 @@ function App() {
     <div className="App">
       <Header language={language} />
 
-      {/* Asigna los ids a las secciones */}
       <section id="home">
         <Home language={language} setLanguage={setLanguage} />
       </section>
