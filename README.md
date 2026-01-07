@@ -1,4 +1,4 @@
-<!-- Perfil -->
+
 <div align="center">
    <h1>Hola, soy Anel Martéz</h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=21DDDF&center=true&vCenter=true&width=500&lines=Full Stack Developer Jr" alt="Texto animado" />
@@ -13,7 +13,7 @@
   </p>
 </div>
 
-<!-- Tecnologías -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Bienvenue+sur+mon+GitHub;Benvenuto+nel+mio+GitHub" alt="Texto animado" />
    
@@ -36,14 +36,14 @@
   </p>
 </div>
 
-<!-- Sección de estadísticas de GitHub y lenguajes -->
+
 <div align="center">
   <h2>📊 Estadísticas de GitHub</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=amarteez&show_icons=true&theme=radical" alt="GitHub Stats" width="300" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarteez&layout=compact&theme=radical" alt="Top Languages" width="300" height="150"/>
 </div>
 
-<!-- Todos los repositorios -->
+
 <div align="center">
   <h2>📚 Repositorios Principales</h2>
   <p>
@@ -53,6 +53,5 @@
     <a href="https://github.com/amarteez/TenkaiTechFRONTEND" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amarteez&repo=TenkaiTechFRONTEND&theme=radical" alt="TenkaiTechFRONTEND" width="300"/>
     </a>
-    <!-- Puedes añadir más repositorios aquí -->
   </p>
 </div>
