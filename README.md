@@ -12,6 +12,7 @@
 
 <br/><br/>
 
+<img src="https://raw.githubusercontent.com/amarteez/amarteez/output/github-snake-dark.svg" alt="Snake" width="100%" />
 <h2>🛠️ Tecnologías</h2>
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,django,js,nodejs,react,postgres,mongodb,docker,aws,azure,githubactions,git&perline=8" alt="Tecnologías" />
