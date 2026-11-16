@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Anel%20Mart%C3%A9z&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20de%20Software&descSize=22&descAlignY=60" alt="Anel Martéz" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Anel%20Mart%C3%A9z&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descSize=22&descAlignY=60" alt="Anel Martéz" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=21DDDF&center=true&vCenter=true&width=620&lines=.NET+%C2%B7+Node.js+%C2%B7+React;Bases+de+Datos+Oracle+y+PostgreSQL;Construyo+soluciones+escalables;Del+backend+a+la+interfaz" alt="Typing" />
 
